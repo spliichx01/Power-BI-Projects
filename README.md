@@ -1,5 +1,4 @@
 # Power-BI-Projects
-# Power BI Projects Portfolio 🚀📊
 
 Welcome to my Power BI Projects portfolio! This repository showcases a variety of data visualization and analytics projects I've completed using **Power BI**. Each project demonstrates my skills in data modeling, DAX calculations, interactive dashboard design, and actionable business insights.
 
