@@ -64,4 +64,5 @@ Each project is organized in its own folder and includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/power-bi-projects.git
+   git clone https://github.com/spliichx01/Power-BI-Projects.git
+   
